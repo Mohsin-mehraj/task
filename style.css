@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  background-color: #f6f6f6 ;
+}
+
+
+.navigation {
+  margin-top: 0%;
+ 
+  overflow: hidden;
+  height: 50px;
+  background-color: #e7e7e7;
+
+}
+
+.pic {
+  margin-top: 10px;
+  margin-left: 130px;
+  width: 120px;
+  float: left;
+}
+
+
+
+
+li {
+  float: left;
+  list-style: none;
+  margin-top: 15px;
+  margin-left: 30px;
+  font-family: sans-serif;
+
+
+
+}
+
+a {
+  text-decoration: none;
+  color: #777;
+  ;
+}
+
+a:hover {
+  color: black;
+}
+
+.all {
+  margin-left: 270px;
+}
+
+.sig {
+  margin-left: 300px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.sig1 {
+  font-size: 14px;
+}
+
+
+h1{
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 25px;
+  margin-left: 400px;
+  margin-bottom: 50px;
+  font-weight: lighter;
+  font-size: 37px;
+}
+
+.card{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13%;
+  border: 1px black solid;
+ 
+}
+.dress{
+  width: 100%;
+}
+.image{
+  width: 100%;
+}
+
+.quiz-title{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+ margin-left: 25%;
+}
+
+
+.card2{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13%;
+  border: 1px black solid;
+  position: absolute;
+  left: 28%;
+  top: 25%;
+
+
+}
+.descrip{
+
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  display: block;
+  width: 80%;
+  text-align: center;
+  height: 45px;
+  overflow: hidden;
+}
+.descript{
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8%;
+  display: block;
+  width: 80%;
+  text-align: center;
+  height: 45px;
+  overflow: hidden;
+}
+
+.quiz-title1{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+}
